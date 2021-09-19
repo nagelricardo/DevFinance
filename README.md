@@ -9,10 +9,9 @@
 <h2 id="demonstracao">Demonstração</h2>
 
 <p>
-  <span><img src="./assets/Screen_1.PNG" /></span>
-  <span><img src="./assets/Screen_2.PNG" /></span>
-  <span><img src="./assets/Screen_3.PNG" /></span>
-
+  <span><img src="./assets/screen_1.png" /></span>
+  <span><img src="./assets/screen_2.png" /></span>
+  <span><img src="./assets/screen_3.png" /></span>
 </p>
 
 <h2 id="autora">👤 Autor</h2>
